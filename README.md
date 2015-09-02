@@ -21,5 +21,4 @@ The current implementation includes a sequential and a parallel version of the a
 
 ##Input
 Input graphs as .txt files can be found [here](https://www.dropbox.com/sh/aeqm6dnf50au34u/AABXbtB3DeeFPOoirDP0DGqya?dl=0).
-More info at [http://snap.stanford.edu/data](http://snap.stanford.edu/data)
-
+More info at [http://snap.stanford.edu/data](http://snap.stanford.edu/data) at Web-Graphs section.
