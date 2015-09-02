@@ -17,3 +17,7 @@ The pagerank algorithm calculates the probability of a user being on a random we
 The final values of the probabilities are used by search engines to rank each webpage in the final results list. 
 
 ##Implementation
+The current implementation includes a sequential and a parallel version of the algorithm, using p-threads. Running the parallel version in a multi-threaded environment results in better timings, compared to the sequential version.
+
+##Input
+Input graphs can be found [a link](https://www.dropbox.com/sh/aeqm6dnf50au34u/AABXbtB3DeeFPOoirDP0DGqya?dl=0)
