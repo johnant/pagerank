@@ -20,5 +20,5 @@ The final values of the probabilities are used by search engines to rank each we
 The current implementation includes a sequential and a parallel version of the algorithm, using p-threads. Running the parallel version in a multi-threaded environment results in better timings, compared to the sequential version.
 
 ## Input
-Input graphs as .txt files can be found [here](https://www.dropbox.com/sh/aeqm6dnf50au34u/AABXbtB3DeeFPOoirDP0DGqya?dl=0).
+Input graphs as .txt files can be found [here](https://www.dropbox.com/sh/yq6rh093rqyf9uv/AABgMBf-fxEujsKsVclrZOmTa?dl=0).
 More info at [http://snap.stanford.edu/data](http://snap.stanford.edu/data) at Web-Graphs section.
